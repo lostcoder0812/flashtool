@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flashtool", "flashtool\flashtool.csproj", "{62F346E3-C984-447F-B880-B0CDE6525A13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_3.5|Any CPU = Debug_3.5|Any CPU
+		Release_3.5|Any CPU = Release_3.5|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62F346E3-C984-447F-B880-B0CDE6525A13}.Debug_3.5|Any CPU.ActiveCfg = Debug_3.5|Any CPU
+		{62F346E3-C984-447F-B880-B0CDE6525A13}.Debug_3.5|Any CPU.Build.0 = Debug_3.5|Any CPU
+		{62F346E3-C984-447F-B880-B0CDE6525A13}.Release_3.5|Any CPU.ActiveCfg = Release_3.5|Any CPU
+		{62F346E3-C984-447F-B880-B0CDE6525A13}.Release_3.5|Any CPU.Build.0 = Release_3.5|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
